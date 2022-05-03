@@ -6,14 +6,14 @@ The Airline Reservation System (ARS) is an android application (called Flight) t
 ## Note: 
 This was a class project for my winter 2022 term and the project was done in group of 5 members. *Contributions where made on class repo in gitlab*
 
-Followed these coding standards [CodingStandards.md] to ensure clean code.
+Followed these [coding standards](CodingStandards.md) to ensure clean code.
 
-As a team we followed these contribution guidelines [Contributing.md].
+As a team we followed these [contribution guidelines](Contributing.md).
 
 We used the 3-tier architecture by splitting the work into presentation layer, logic layer and persistence layer.
 
 This app mimics the airline reservation system.
 
-To run: simply clone the repo and open it in android studio (refer to this Acceptance File [AcceptanceTest.md] to see how to simulate the app).
+To run: simply clone the repo and open it in android studio (refer to this [Acceptance File](AcceptanceTest.md) to see how to simulate the app).
 
 
