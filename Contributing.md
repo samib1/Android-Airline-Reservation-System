@@ -1,8 +1,8 @@
 # Contributing Members
-Yuhan Shao
-Jordon Dao
-Devam Patel
-Xiaoran Xie
+Mmember #1
+Member #2
+Member #3
+Member #4
 Byaruhanga Asiimwe Sami
 
 # Branching Strategy
